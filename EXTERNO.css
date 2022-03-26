@@ -1,0 +1,31 @@
+.divisao_A {
+    background-color: #ff751a;
+    width: 500px;
+    height: 500px;
+}
+
+.divisao_B {
+    background-color: #60eb15;
+    height: 50%;
+    width: 50%;
+}
+
+.paragrafo_A {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold
+}
+
+.divisao_C {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(157, 213, 231);
+}
+
+.divisao_D {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+}
